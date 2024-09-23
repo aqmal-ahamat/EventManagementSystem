@@ -67,6 +67,7 @@ namespace EventManagementSystem
                 }
                 else
                 {
+                    
                     MessageBox.Show($"Event: {evenT} does not exist");
                 }
 
